@@ -61,6 +61,7 @@
           <configuration>
             <source>8</source>
             <target>8</target>
+          </configuration>
         </plugin>
         <plugin>
           <artifactId>maven-surefire-plugin</artifactId>
